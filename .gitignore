@@ -1,0 +1,6 @@
+.venv
+output/*
+model/data/train_data.spacy
+model/output
+model/config/config.config
+.DS_Store

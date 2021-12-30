@@ -1,0 +1,28 @@
+[
+    "Identification Name",
+    "Identification Age",
+    "Identification Profession",
+    "Identification Religion",
+    "Identification Marital",
+    "Complaint Description",
+    "Complaint Time",
+    "HPI Course",
+    "HPI Symptoms",
+    "HPI Other Symptoms",
+    "HPI Alleviation",
+    "HPI Organs",
+    "HPI Treatment",
+    "HPI Results",
+    "Medical History Illness",
+    "Medical History Treatment",
+    "Medical History Allergy",
+    "Medical History Habit",
+    "Family History Illness",
+    "Family History Death Age",
+    "Social History House Partner",
+    "Social History House Type",
+    "Social History Sleep",
+    "Social History Diet",
+    "Review of Systems Status"
+]
+
